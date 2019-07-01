@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+     <title>My Portfolio</title>
+  </head>
+
+  <body>
+
+    <header class="tophead">
+      <div class="container">
+        <div class="name">Juan Diego Gutierrez</div>
+          <nav>
+            <li><a href="index.html">About</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </nav>
+        </div>
+    </header>
+
+    <div id="main-container" class="container">
+      <section class="main-section">
+        <h1>About Me</h1>
+
+        <img src="assets/images/juan.jpg" class="folio-pic" alt="JUAN DIEGO GUTIERREZ">
+
+        <p class="other-text">My full name is Juan Diego Gutierrez Illera Duque Cartagena. I wish government identification could fit all that. I was born in the far away land known as Teaneck, NJ, but lived in Union City, NJ. I moved to Pereira, Colombia when I was just 3 months old. Then moved back to the states when I was 5, to Hialeah, Florida. and then finally landed in Harrison, NJ. </p>
+
+        <p class="other-text">I currently manage my parents' restaurant in Harrison. That's the reason I'm taking this bootcamp, to help increase and improve our online presence. I am the youngest of 3 so this businesss my parents built has helped us get to where we are now. And I think their is no better way to show my appreciation than to manage it so they can rest and travel the world. Also thanks to the restaurant, I'm the owner of a brand new Model 3. Rated all around 5 stars by me. </p>
+      </section>
+    </div>
+
+    <footer>
+      <div class="container">
+      Copyright &copy;
+      </div>
+    </footer>
+  </body>
+
+</html>

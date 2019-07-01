@@ -55,18 +55,17 @@ h3 {
 #masthead {
   position: fixed;
   z-index: 99;
-  width: 100%;
+  width: 65%;
   margin: 0 0 30px;
   overflow: auto;
   color: #ffffff;
   background: #ffffff;
   border-bottom: 2px solid #cccccc;
-}
+}mar
 
 #logo {
   float: left;
-  /* margin-left: 25px; */
-  width: auto;
+  width: 50%;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 30px;
@@ -85,7 +84,8 @@ nav {
 
 nav a {
   display: inline-block;
-  padding: 0 25px 0 25px;
+  padding-left: 50px;
+  margin-left: 25px;
   line-height: 18px;
   color: #999;
   text-decoration: none;
